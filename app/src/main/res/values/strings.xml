@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">115LabProject</string>
+    <string name="back">BACK</string>
+    <string name="make_sure_you_always_remove_your_makeup_before_hitting_the_sheets_the_skin_needs_to_breathe_overnight_and_makeup_prevents_that_as_leaving_it_on_overnight_clogs_the_pores_which_may_cause_blemishes_and_or_blackheads_put_some_olive_oil_on_a_cotton_pad_and_gently_massage_the_oil_onto_your_face_to_get_rid_of_the_makeup_and_dirt">--Make sure you always remove your makeup before hitting the sheets. The skin needs to breathe overnight. And makeup prevents that, as leaving it on overnight clogs the pores which may cause blemishes and/or blackheads. Put some olive oil on a cotton pad and gently massage the oil onto your face to get rid of the makeup and dirt.</string>
+    <string name="do_s">DO\'s</string>
+    <string name="_1_the_golden_rule">1) The Golden Rule</string>
+    <string name="next">NEXT</string>
+    <string name="todo">TODO</string>
+    <string name="do_s1">DO\'s</string>
+    <string name="_2_sun_and_skin">2) Sun and Skin</string>
+    <string name="apply_sunscreen_with_spf_of_at_least_15_that_blocks_both_uva_and_uvb_rays_since_a_lifetime_of_sun_exposure_can_cause_wrinkles_age_spots_and_other_skin_problems_you_have_to_protect_your_skin_from_the_sun_make_sure_the_label_reads_noncomedogenic_or_nonacnegenic_so_that_the_product_does_not_tend_to_block_pores">--Apply sunscreen with SPF of at least 15 that blocks both UVA and UVB rays. Since a lifetime of sun exposure can cause wrinkles, age spots and other skin problems, you have to protect your skin from the sun. Make sure the label reads ‘noncomedogenic’ or ‘nonacnegenic’ so that the product does not tend to block pores.</string>
+    <string name="todo2">TODO2</string>
+    <string name="foods_to_eat">Foods to Eat</string>
+    <string name="dermaface">DermaFace++</string>
+    <string name="remedies">REMEDIES</string>
+    <string name="dont_s">DONT\'s</string>
+    <string name="dos">DO\'s</string>
+    <string name="derma1">derma1</string>
+    <string name="_3_you_are_what_you_eat">3) You are What You Eat</string>
+    <string name="keep_a_note_of_what_you_put_on_your_plate_eat_fresh_fruits_greens_sufficient_protein_and_vitamins_a_diet_rich_in_vitamin_c_and_low_in_fats_and_sugar_promotes_radiant_skin_consider_a_low_sugar_diet_which_can_keep_insulin_levels_down_allowing_cells_to_maintain_a_healthy_balance">--Keep a note of what you put on your plate. Eat fresh fruits, greens, sufficient protein and vitamins. A diet rich in vitamin C and low in fats and sugar promotes radiant skin. Consider a low-sugar diet, which can keep insulin levels down, allowing cells to maintain a healthy balance.</string>
+    <string name="_4_sweat_it_out">4) Sweat It Out</string>
+    <string name="exercise_regularly_running_jogging_and_yoga_will_give_your_body_the_necessary_blood_circulation_and_also_accelerate_the_cleansing_process_of_your_entire_body_you_will_notice_a_glow_on_your_face_after_working_out_racing_against_time_just_take_a_brisk_walk_around_the_block">--Exercise regularly. Running, jogging and yoga will give your body the necessary blood circulation, and also accelerate the cleansing process of your entire body. You will notice a glow on your face after working out. Racing against time? Just take a brisk walk around the block.</string>
+    <string name="a_guide_to">A Guide to</string>
+    <string name="flawless_and_unblemished_face">Flawless and Unblemished Face</string>
+    <string name="lets_get_started">Lets Get Started!</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="try_to_sleep_at_least_8_hours_every_night_if_you_don_t_get_enough_shut_eye_your_skin_gets_tired_just_like_you_so_don_t_risk_it_you_can_also_apply_honey_on_your_face_twice_or_thrice_a_week_to_naturally_soothe_and_heal_your_skin">--Try to sleep at least 8 hours every night. If you don’t get enough shut eye, your skin gets tired just like you. So don’t risk it. You can also apply honey on your face twice or thrice a week to naturally soothe and heal your skin.</string>
+    <string name="_5_beauty_sleep">5) Beauty Sleep</string>
+    <string name="dermaface1">DermaFace++</string>
+</resources>
