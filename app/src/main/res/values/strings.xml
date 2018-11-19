@@ -28,7 +28,7 @@
     <string name="_5_beauty_sleep">5) Beauty Sleep</string>
     <string name="dermaface1">DermaFace++</string>
     <string name="finish">Finish!</string>
-    <string name="finish">Finish!</string>
+
     <string name="dont_s1">DONT\'s</string>
     <string name="_4_forgetting_skincare_sessions">4) forgetting skincare sessions</string>
     <string name="forget_to_wash_and_moisturize_your_face_before_going_to_bed_for_dry_skin_use_milder_cleansers_that_are_free_from_alcohol_apply_lots_of_moisturizer_and_avoid_hot_water_as_it_dries_out_the_skin_excessively">--Forget to wash and moisturize your face before going to bed. For dry skin, use milder cleansers that are free from alcohol. Apply lots of moisturizer, and avoid hot water as it dries out the skin excessively.</string>
@@ -43,4 +43,5 @@
     <string name="dont_s5">DONT\'s</string>
     <string name="_1_avoid_excessive_stressing">1) Avoid excessive stressing</string>
     <string name="neglect_your_jawline_and_facial_muscles_for_just_5_minutes_a_day_perform_a_few_facial_exercises_you_can_jut_out_your_lower_lip_in_such_a_way_that_wrinkles_are_created_on_the_chin_then_lower_your_chin_to_your_chest">--Neglect your jawline and facial muscles. For just 5 minutes a day, perform a few facial exercises. You can jut out your lower lip in such a way that wrinkles are created on the chin, then lower your chin to your chest.</string>
+    <string name="dont_s6">DONT\'S</string>
 </resources>

@@ -27,6 +27,16 @@
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
         <activity android:name=".do5th"
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".dont1st"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".dont2nd"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".dont3rd"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".dont4th"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".dont5th"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
     </application>
 
 </manifest>
