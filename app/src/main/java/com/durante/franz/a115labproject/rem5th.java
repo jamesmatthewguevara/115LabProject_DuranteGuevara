@@ -6,11 +6,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-public class dont5th extends AppCompatActivity {
+public class rem5th extends AppCompatActivity {
     Button tbutton, tbutton2;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.donts5);
+        setContentView(R.layout.remedies5);
 
         //slidr = findViewById(R.id.slidable_content);
         //Slidr.attach(this);
@@ -19,4 +19,5 @@ public class dont5th extends AppCompatActivity {
         Intent i = new Intent(this, listofcontents.class);
         startActivity(i);
     }
+
 }

@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".listofcontents"></activity>
+        <!-- DO -->
         <activity android:name=".do1st"
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
         <activity android:name=".do2nd"
@@ -27,6 +28,7 @@
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
         <activity android:name=".do5th"
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <!-- DON'T-->
         <activity android:name=".dont1st"
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
         <activity android:name=".dont2nd"
@@ -37,6 +39,30 @@
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
         <activity android:name=".dont5th"
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <!-- REMEDIES-->
+        <activity android:name=".rem1st"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".rem2nd"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".rem3rd"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".rem4th"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".rem5th"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <!--FOODS TO EAT -->
+        <activity android:name=".food1st"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".food2nd"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".food3rd"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".food4th"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".food5th"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+
+
     </application>
 
 </manifest>

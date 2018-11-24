@@ -22,5 +22,13 @@ public class listofcontents extends AppCompatActivity {
         Intent i = new Intent(this, dont1st.class);
         startActivity(i);
     }
+    public void RemList (View v) {
+        Intent i = new Intent(this, rem1st.class);
+        startActivity(i);
+    }
+    public void FoodList (View v) {
+        Intent i = new Intent(this, food1st.class);
+        startActivity(i);
+    }
 
 }
