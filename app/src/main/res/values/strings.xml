@@ -30,7 +30,7 @@
     <string name="finish">Finish!</string>
 
     <string name="dont_s1">DONT\'s</string>
-    <string name="_4_forgetting_skincare_sessions">4) forgetting skincare sessions</string>
+    <string name="_4_forgetting_skincare_sessions">4) Forgetting skincare sessions</string>
     <string name="forget_to_wash_and_moisturize_your_face_before_going_to_bed_for_dry_skin_use_milder_cleansers_that_are_free_from_alcohol_apply_lots_of_moisturizer_and_avoid_hot_water_as_it_dries_out_the_skin_excessively">--Forget to wash and moisturize your face before going to bed. For dry skin, use milder cleansers that are free from alcohol. Apply lots of moisturizer, and avoid hot water as it dries out the skin excessively.</string>
     <string name="dont_s2">DONT\'s</string>
     <string name="_3_ignoring_skincare_sessions">3) Ignoring skincare sessions</string>
@@ -73,6 +73,17 @@
     <string name="if_you_need_one_more_reason_to_eat_chocolate_here_it_is_the_effects_of_cocoa_on_your_skin_are_pretty_phenomenal_after_6_12_weeks_of_consuming_a_cocoa_powder_high_in_antioxidants_each_day_participants_in_one_study_experience_thicker_more_hydrated_skin_their_skin_was_also_less_rough_and_scaly_less_sensitive_to_sunburn_and_had_better_blood_flow_which_brings_more_nutrients_to_your_skin">--If you need one more reason to eat chocolate, here it is: The effects of cocoa on your skin are pretty phenomenal. After 6–12 weeks of consuming a cocoa powder high in antioxidants each day, participants in one study experience thicker, more hydrated skin. Their skin was also less rough and scaly, less sensitive to sunburn and had better blood flow — which brings more nutrients to your skin.</string>
     <string name="foods_to_eat5">FOODS TO EAT</string>
     <string name="_5_green_tea">5) Green Tea</string>
-    <string name="green_tea_may_protect_your_skin_from_damage_and_aging_the_powerful_compounds_found_in_green_tea_are_called_catechins_and_work_to_improve_the_health_of_your_skin_in_several_ways">Green tea may protect your skin from damage and aging. The powerful compounds found in green tea are called catechins and work to improve the health of your skin in several ways.</string>
     <string name="green_tea_may_protect_your_skin_from_damage_and_aging_the_powerful_compounds_found_in_green_tea_are_called_catechins_and_work_to_improve_the_health_of_your_skin_in_several_ways_green_tea_is_natural_treament_for_oily_faces">Green tea may protect your skin from damage and aging. The powerful compounds found in green tea are called catechins and work to improve the health of your skin in several ways. Green tea is natural treament for oily faces.</string>
+    <string name="please_enter_the_ff">Please Enter the ff:</string>
+    <string name="name">Name:</string>
+    <string name="you_accomplished_the">You accomplished the</string>
+    <string name="do_s7">DO\'s</string>
+    <string name="module">Module!</string>
+    <string name="done">DONE</string>
+    <string name="congratulations">CONGRATULATIONS!!!</string>
+    <string name="continue1">Continue</string>
+    <string name="dont_s7">DONT\'s</string>
+    <string name="remedies7">REMEDIES\'</string>
+    <string name="foods_to_eat_s">FOODS TO EAT\'s</string>
+
 </resources>
