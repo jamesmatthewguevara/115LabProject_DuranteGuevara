@@ -15,7 +15,7 @@ Button tbutton;
         tbutton= findViewById(R.id.button);
     }
     public void nextActivity(View v) {
-        Intent i = new Intent(this, listofcontents.class);
+        Intent i = new Intent(this, Name.class);
         startActivity(i);
     }
 

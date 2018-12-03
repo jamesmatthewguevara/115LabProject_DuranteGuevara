@@ -149,7 +149,7 @@
             android:layout_marginRight="8dp"
             android:layout_marginBottom="8dp"
             android:background="#e4d905"
-            android:onClick="Home"
+            android:onClick="DontFinish"
             android:text="@string/finish"
             android:textColor="@android:color/black"
             android:textSize="28sp"

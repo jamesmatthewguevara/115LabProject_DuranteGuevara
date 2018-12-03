@@ -16,8 +16,8 @@ public class food5th extends AppCompatActivity {
         //slidr = findViewById(R.id.slidable_content);
         //Slidr.attach(this);
     }
-    public void Home (View v){
-        Intent i = new Intent(this, listofcontents.class);
+    public void FoodFinish (View v){
+        Intent i = new Intent(this, endfood.class);
         startActivity(i);
     }
 }

@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".listofcontents"></activity>
-        <!-- DO -->
+        <!-- DO'S -->
         <activity android:name=".do1st"
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
         <activity android:name=".do2nd"
@@ -28,7 +28,7 @@
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
         <activity android:name=".do5th"
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
-        <!-- DON'T-->
+        <!-- DON'TS-->
         <activity android:name=".dont1st"
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
         <activity android:name=".dont2nd"
@@ -61,8 +61,18 @@
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
         <activity android:name=".food5th"
             android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
-
-
+        <!--OTHERS-->
+        <activity android:name=".Name"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <!-- END MODULES-->
+        <activity android:name=".enddo"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".enddont"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".endfood"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
+        <activity android:name=".endremedy"
+            android:theme="@style/AppTheme.SlidrActivityTheme"></activity>
     </application>
 
 </manifest>
